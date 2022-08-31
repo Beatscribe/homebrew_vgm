@@ -1,5 +1,5 @@
 # Homebrew Free Jingle and Fanfare Music Assets
-This repo is a collectio of free fanfare and jingle (short melodies) for use in homebrew projects. Its just my contribution to the awesome Gameboy dev scene as well as other systems I enjoy working with such as Sega Genesis (.vgm) and "fake bit" mp3 and wav's that mimic many systems while taking some minor liberties in their true chip capabilities. They are available under Creative Commons Zero for your use in any project you'd like. 
+This repo is a collection of free fanfare and jingle (short melodies) for use in homebrew projects. Its just my contribution to the awesome Gameboy dev scene as well as other systems I enjoy working with such as Sega Genesis (.vgm) and "fake bit" mp3 and wav's that mimic many systems while taking some minor liberties in their true chip capabilities. They are available under Creative Commons Zero for your use in any project you'd like. 
 
 There are also templates with pre-created beats under some of the directories. 
 
