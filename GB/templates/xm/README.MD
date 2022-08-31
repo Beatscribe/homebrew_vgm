@@ -1,1 +1,1 @@
-For use with GBMod by DevEd4.
+For use with GBMod by DevEd.
