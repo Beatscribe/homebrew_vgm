@@ -1,0 +1,51 @@
+***********************************************
+* VGM music package                           *
+* https://vgmrips.net/                        *
+***********************************************
+
+Game name:           Tougi Ou King Colossus
+System:              Sega Mega Drive
+Music hardware:      YM2612, SEGA VDP PSG
+Complete music dump: Yes
+
+Music author:        Kenichiro Isoda
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1992-06-26
+
+Package created by:  2ch-N
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Opening Credits                     2:02   -
+Gate of Great Colossus (Title)      2:28   1:55
+An Old Sad Dance (Mook's Cabin)     1:58   1:44
+Beginning in the End (Map Screen)   2:09   2:04
+Southwest Cave, Luferia Castle      1:38   1:19
+Walk Thru Illusions - A (Shrine)    0:59   0:42
+Walk Thru Illusions - B
+    (Tower of Gludo, Sirius Castle) 1:07   0:47
+Forest of Bewilderment,
+                      Kazard Castle 1:12   1:04
+Fighter's Field (Arena)             2:08   2:00
+Blue Dancer
+  (Disteria Castle ~ Princess Rina) 1:15   1:00
+Daneer Castle                       1:20   1:16
+Black Enemy (Boss)                  1:46   1:36
+In Her Tears (Ending)               1:16   1:02
+Silent Fog (Staff Roll)             7:35   -
+Game Over                           0:10   -
+Unknown (Sound Code 05)             1:10   1:01
+Unknown (Sound Code 08)             0:35   0:31
+
+Notes:
+Tagged and packed by DJSW.
+
+Release notes from project2612; names/dates lost:
+1.00 Added Kenichiro Isoda as composer.
+
+Package history:
+1.01 2022-01-04 andlabs: Fixed txt file for
+ vgmrips.

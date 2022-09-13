@@ -1,0 +1,49 @@
+***********************************************
+* Megadrive VGM music package                 *
+* http://project2612.org/                     *
+***********************************************
+
+Game name:                Golden Axe
+System:                   Sega Mega Drive
+Complete music dump:      Yes
+Composer:                 Tohru Nakabayashi
+                          Y. Takada
+Publisher:                Sega
+Package created by:       Matthew Dickinson
+Package version:          1.05
+
+
+Music, in approximate game order:
+
+Name                                     Length:
+                                         Total  Loop
+
+The Battle (Title / Select Player)       1:07   0:48
+Wilderness (Stage 1)                     2:44   2:44
+Battle Field (Boss / Stage 5)            2:04   2:04
+Theme of Thief                           0:29   0:29
+Old Map                                  0:36   0:18
+Turtle Village 1 (Stage 2)               2:03   2:03
+Path of Fiend (Stage 3)                  2:14   2:14
+Turtle Village 2 (Stage 4)               0:41   0:41
+Death Adder (Stage 6 & 7)                2:20   2:20
+Showdown (Stage 8)                       1:45   1:45
+Conclusion (King and Princess)           0:19   -
+Sutakora, Sassa! (Credits)               0:35   0:35
+Game Over                                0:02   -
+
+
+Notes:
+I don't know the composer credits beyond the
+nicknames given at the end of the game, which I
+listed in order. Nonetheless, the music is surely
+inspired by Basil Poledouris' meaty "Conan the
+Barbarian" soundtrack.
+
+In some ROMs, "Path of Fiend" and "Theme of Thief"
+are titled "Fiend's Path" and "Thief's Theme."
+
+
+1.05 - Credited Tohru Nakabayashi as the composer. 
+NANKYOKU, DECKY, IMOCKY simply were the ones 
+who ported it

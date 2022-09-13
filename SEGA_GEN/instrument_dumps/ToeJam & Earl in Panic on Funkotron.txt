@@ -1,0 +1,45 @@
+***********************************************
+* Megadrive VGM music package                 *
+* http://project2612.org/                     *
+***********************************************
+
+Game name:           ToeJam & Earl in
+                             Panic on Funkotron
+System:              Sega Mega Drive
+Complete music dump: Yes
+
+Original author:     John Baker
+Publisher:           Sega / JVP
+Package created by:  DJ Squarewave
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Theme Song                          0:38   0:38
+Ode to Sharla                       2:04   2:04
+Lewanda's Love                      1:14   1:14
+Mellow Groove                       0:51   0:51
+Peabo's Party Jam                   0:49   0:49
+Funky Alien                         1:01   1:01
+Aquajam                             0:30   0:30
+Funk Down Under                     1:06   0:56
+Boomin' Bump                        0:53   0:41
+Rocket Rap                          0:37   0:37
+Funk Funk Funk E                    1:04   1:04
+The After Funk                      0:18   0:18
+Menu Beats                          0:18   0:18
+Panic Button                        0:06   0:06
+Unused Track                        0:03   -
+
+Notes:
+1.02: General cleanups.
+1.01: Added missing tracks.
+
+Peabo's Party Jam sounds like it does not loop
+properly; it sounds this way in the original
+song. There's a note in Boomin' Bump that seems
+to cut out; this happens in the original song.
+Track titles and order taken from in-game music
+test. -DJSW
