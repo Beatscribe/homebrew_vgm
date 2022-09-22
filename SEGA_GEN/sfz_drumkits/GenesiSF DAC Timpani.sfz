@@ -1,0 +1,18 @@
+//  ***** The Ultimate Megadrive Soundfont - DAC Timpani *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  SF SW Engine
+//  For SBAWE32
+//  By The Eighth Bit
+//  Using SFEDT v1.28:
+//  Created Sep 12, 2009
+//  Remember classics on the Sega Megadrive/Genesis? Remember the great music in games like Sonic The Hedgehog? Relive it in the form of midis with The Ultimate Megadrive Soundfont!
+//  Copyright (C) 2009 The Eighth Bit, Rec Games, All Rights Reserved.
+
+
+<group>
+sample=timpani174.wav
+hikey=b4
+ampeg_release=100
+
+<region>
