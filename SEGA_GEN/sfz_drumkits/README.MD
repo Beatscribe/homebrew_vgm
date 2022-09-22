@@ -1,0 +1,1 @@
+You can port these WAVs into any sampler or Deflemask or whatever. If you want to use the SFZ kits I suggest Plogue's free Sforzando plug-in/VST/AU. Just drag the SFZ into a new instance of Sforzando and it'll import the related samples. 
