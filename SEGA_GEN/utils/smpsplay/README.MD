@@ -1,0 +1,1 @@
+Excellent MD music player for Windows. The dev's repo is still online but probably only runs on his specific developer machine. Use this instead, just drop files you want to play in the Music directory and run the EXE. Thanks to TheInvisibleSun for sharing this.
